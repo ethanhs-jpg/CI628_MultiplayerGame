@@ -1,0 +1,3 @@
+C:/Users/ethan/Documents/VS Projects/CI628/build/CMakeFiles/MyGame.dir
+C:/Users/ethan/Documents/VS Projects/CI628/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ethan/Documents/VS Projects/CI628/build/CMakeFiles/ZERO_CHECK.dir
